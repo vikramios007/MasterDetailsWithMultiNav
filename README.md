@@ -1,0 +1,4 @@
+MasterDetailsWithMultiNav
+=========================
+
+Having SplitView Controller
